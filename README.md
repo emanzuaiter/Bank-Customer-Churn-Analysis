@@ -10,9 +10,9 @@ Analysis of 10,000 bank customers to find who is leaving the bank and why, built
 
 ## Dashboards
 
-![Dashboard 1](dashboard/images/dashboard_1.png)
+![dashboard_1.jpg](dashboard/images/dashboard_1.png)
 
-![Dashboard 2](dashboard/images/dashboard_2.png)
+![dashboard_2.jpg](dashboard/images/dashboard_2.png)
 
 ## Key Findings
 
@@ -36,10 +36,3 @@ Analysis of 10,000 bank customers to find who is leaving the bank and why, built
 - Read the full report in `report/`.
 - Open the `.pbix` file with Power BI Desktop to explore the dashboards.
 
-## Tools
-
-Power BI, Excel, Python
-
-## Author
-
-**Eman**
