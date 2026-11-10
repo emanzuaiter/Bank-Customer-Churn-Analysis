@@ -4,15 +4,18 @@ Analysis of 10,000 bank customers to find who is leaving the bank and why, built
 
 ## What's Inside
 
-- `data/` : customer dataset (`Book12.csv`)
-- `dashboard/` : Power BI file and dashboard images
-- `report/` : full written report
+- [`Customer-Churn-Records.csv`](Customer-Churn-Records.csv) : customer dataset
+- [`Bank_Churn_Dashboard.pbix`](Bank_Churn_Dashboard.pbix) : Power BI dashboard file
+- [`Bank_Customer_Churn_Report.docx`](Bank_Customer_Churn_Report.docx) : full written report
+- `dashboard_1.jpg` and `dashboard_2.jpg` : dashboard images
 
 ## Dashboards
 
-![dashboard_1.jpg](dashboard/images/dashboard_1.png)
+### Customer Risk Prediction Dashboard
+![Dashboard 1](dashboard_1.jpg)
 
-![dashboard_2.jpg](dashboard/images/dashboard_2.png)
+### Customer Behavior & Demographics Deep-Dive
+![Dashboard 2](dashboard_2.jpg)
 
 ## Key Findings
 
@@ -32,7 +35,14 @@ Analysis of 10,000 bank customers to find who is leaving the bank and why, built
 
 ## How to View
 
-- Look at the images above for a quick overview.
-- Read the full report in `report/`.
+- Look at the dashboard images above for a quick overview.
+- Read the full report: [Bank_Customer_Churn_Report.docx](Bank_Customer_Churn_Report.docx).
 - Open the `.pbix` file with Power BI Desktop to explore the dashboards.
 
+## Tools
+
+Power BI, Excel, Python
+
+## Author
+
+**Eman**
